@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DSS-BIKES", "DSS-BIKES\DSS-BIKES.dtproj", "{EB2D855B-1A8E-4A07-AB65-3DD032B76836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2D855B-1A8E-4A07-AB65-3DD032B76836}.Development|Default.ActiveCfg = Development
+		{EB2D855B-1A8E-4A07-AB65-3DD032B76836}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD42896-42D7-4746-9957-066401915A0B}
+	EndGlobalSection
+EndGlobal
